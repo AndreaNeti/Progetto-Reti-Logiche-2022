@@ -1,4 +1,4 @@
-Digital Logic Design (Reti Logiche) - Final Project 2022
+# Digital Logic Design (Reti Logiche) - Final Project 2022
 ## About
 This is the final project of "Digital Logic Design", course of "Computer Science Engineering" held at Politecnico di Milano (2021/2022).<br><br>
 **Professor:** [Gianluca Palermo](http://palermo.faculty.polimi.it/)<br>
